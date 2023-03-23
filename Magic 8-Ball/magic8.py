@@ -35,4 +35,4 @@ elif name == "":
   print ("Magic 8-Ball's answer:", answer)
 else:
   print (name, "asks: ", question) 
-  print ("Magic 8-Ball's answer:", answer ) 
+  print ("Magic 8-Ball's answer:", answer)
